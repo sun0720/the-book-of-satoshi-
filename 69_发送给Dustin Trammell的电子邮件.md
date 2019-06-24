@@ -81,8 +81,36 @@
 > **聪**
 
 
+### 电子邮件3——关于比特币的潜力
 
+这次交流似乎表明，中本聪并不期待比特币被快速接受
 
+> **来自：“Satoshi Nakamoto”satoshi@vistomail.com**
+> ————————————————————————————————————————————————————
+> **收件人：dtrammell@dustintrammell.com**
+>
+> **日期：2009年1月16日星期五03:15:14 +0800**
+>
+> **主题：回复：比特币v0.1发布**
+> ————————————————————————————————————————————————————
+> &emsp; &emsp; 我已经有了一段时间的地址，但希望我的dhcp客户端成功更新并且不会丢失我的地址。它确实会不时发生变化，但该地址应该有一段时间了。
+> ————————————————————————————————————————————————————
+> **至少有一个节点的入站IP在同一个类B中一直在不断变化。也许每次运行程序时都是如此，我没想到。**
+>
+> **您是否介意我将其余部分用于比特币列表或密码学？**
+>
+> **BTW，比特币列表是：bitcoin-list@lists.sourceforge.net**
+>
+> **订阅/取消订阅页面：[http://lists.sourceforge.net/mailman/listinfo/bitcoin-list](http://lists.sourceforge.net/mailman/listinfo/bitcoin-list)**
+>
+> **档案：[http://sourceforge.net/mailarchive/forum.php？forum_name=bitcoin-list](http://sourceforge.net/mailarchive/forum.php？forum_name=bitcoin-list)**
+> ————————————————————————————————————————————————————
+Dustin D. Trammell写道：
+Satoshi Nakamoto写道：
+你知道，我认为有更多的人对90年代感兴趣，但经过十多年失败的Trusted Third Party系统（Digicash等），他们认为这是一个失败的原因。
+我希望他们能够区分这是第一次
+我知道我们正在尝试一个基于非信任的系统。
+是的，这是引起我注意的主要特征。真正的诀窍是让人们真正重视比特币，使它们成为货币。
 
 
 
