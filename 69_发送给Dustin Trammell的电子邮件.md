@@ -208,13 +208,13 @@
 >
 > &emsp; &emsp; 你是否？我在工作中从BitCoin应用而不是通过IP将自己的BitCoin应用程序100.00发送到家里。我在家的申请收到100.00转账，但是交易细节说明了。
 >
-> “收到：中本聪 12higDjoCCNXSA95xZMWUdPvXNmkAduhWv”。
+> &emsp; &emsp; “收到：中本聪 12higDjoCCNXSA95xZMWUdPvXNmkAduhWv”。
 >
-> 这不是我的BitCoin地址，所以我认为这意味着我收到了由客户计算的块编码的付款？如果是这样，除了生成它的BitCoin地址之外，它是如何知道你的名字的呢？我不记得我的申请中有一个地方甚至我的名字。
+> &emsp; &emsp; 这不是我的BitCoin地址，所以我认为这意味着我收到了由客户计算的块编码的付款？如果是这样，除了生成它的BitCoin地址之外，它是如何知道你的名字的呢？我不记得我的申请中有一个地方甚至我的名字。
 >
-> \-
+> &emsp; &emsp; \-
 >
-> Dustin D. Trammell, dtrammell@dustintrammell.com,  [http://www.dustintrammell.com](http://www.dustintrammell.com)
+> &emsp; &emsp; Dustin D. Trammell, dtrammell@dustintrammell.com,  [http://www.dustintrammell.com](http://www.dustintrammell.com)
 
 
 
