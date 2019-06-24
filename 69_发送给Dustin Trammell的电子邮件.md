@@ -105,11 +105,16 @@
 >
 > **档案：[http://sourceforge.net/mailarchive/forum.php？forum_name=bitcoin-list](http://sourceforge.net/mailarchive/forum.php？forum_name=bitcoin-list)**
 > ————————————————————————————————————————————————————
-Dustin D. Trammell写道：
-Satoshi Nakamoto写道：
-你知道，我认为有更多的人对90年代感兴趣，但经过十多年失败的Trusted Third Party系统（Digicash等），他们认为这是一个失败的原因。
-我希望他们能够区分这是第一次
-我知道我们正在尝试一个基于非信任的系统。
+> &emsp; &emsp; Dustin D. Trammell写道：
+> ————————————————————————————————————————————————————
+> &emsp; &emsp; &emsp; &emsp; 中本聪写道：
+>
+> &emsp; &emsp; &emsp; &emsp; 你知道，我认为有更多的人对90年代感兴趣，但经过十多年失败的可信第三方系统（Digicash等），他们认为这是一个失败的原因。
+>
+> &emsp; &emsp; &emsp; &emsp; 我希望这是第一次他们能够区分
+>
+> &emsp; &emsp; &emsp; &emsp; 我知道我们正在尝试一个基于非信任的系统。
+> ————————————————————————————————————————————————————
 是的，这是引起我注意的主要特征。真正的诀窍是让人们真正重视比特币，使它们成为货币。
 
 
